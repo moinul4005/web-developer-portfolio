@@ -19,6 +19,7 @@
     background-color: #FD6E0A;
     font-weight: bold;
     font-size: 20px;
+    border: none;
     color: white;
     padding: 18px 35px;
     border-radius: 5px;
@@ -48,4 +49,17 @@ nav ul li{
 nav li a{
     text-decoration: none;
     font-size: 20px;
+}
+/* banner styles */
+.banner-greetings{
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.banner-title{
+    font-weight: bold;
+    font-size: 85px;
+}
+.banner-profile-pic{
+    width: 580px;
 }
